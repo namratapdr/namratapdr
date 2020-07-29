@@ -1,5 +1,5 @@
 ### 
-<img src="https://github.com/namratapdr/namratapdr/blob/master/intro.gif">
+[<img src="https://github.com/namratapdr/namratapdr/blob/master/intro.gif">](https://twitter.com/namratapdr)
 
 <!--
 **namratapdr/namratapdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
