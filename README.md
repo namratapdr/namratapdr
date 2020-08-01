@@ -6,9 +6,8 @@
 <br>🌱 I’m currently learning: <h4>React</h4>
  <p>🔭I’m currently working on :</p> <h4>My portfolio</h4>
   <h2>My Top Languages:</h2>
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=namratapdr&hide=css,html&theme=tokyonight">
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratapdr&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **namratapdr/namratapdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
