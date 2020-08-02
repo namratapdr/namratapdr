@@ -2,7 +2,7 @@
 <img src="https://github.com/namratapdr/namratapdr/blob/master/intro.gif">
 
 📫 How to reach me: <br>
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/namratapdr) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/namratapdr/) [<img src="https://img.shields.io/badge/codepen-%ADE500.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen badge"/>](https://codepen.io/namratapdr) ![Visits Badge](https://badges.pufler.dev/visits/namratapdr/namratapdr?style=for-the-badge ) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/namratapdr) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/namratapdr/) [<img src="https://img.shields.io/badge/-CodePen-orange?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen badge"/>](https://codepen.io/namratapdr) ![Visits Badge](https://badges.pufler.dev/visits/namratapdr/namratapdr?style=for-the-badge ) 
 <br>🌱 I’m currently learning: <strong>React</strong><br>
  <p>🔭I’m currently working on : <strong>My portfolio</strong></p>
 
