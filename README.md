@@ -9,4 +9,5 @@
  <p>🔭I’m currently working on : <strong>My portfolio</strong></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratapdr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namratapdr&show_icons=true&locale=en" alt="namratapdr" /></p>
 
